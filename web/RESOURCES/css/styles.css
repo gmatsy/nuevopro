@@ -1,0 +1,249 @@
+*{
+ margin: 0px;
+ padding: 0px;
+ box-sizing: border-box;
+}
+/* AREA HEADER*/
+header{
+    width: 100%;
+    height: 10%;
+    text-align: center;
+    padding-top: 50px;
+    color: #ffffff;
+    background:#3393ff;
+      display: flex;
+    justify-content:  space-around;
+}
+.hero-image{
+    background: url(../imgs/fl/body1.jpg) no-repeat center;
+    background-size: cover;
+    position: relative;
+    
+}
+.header{
+    background: #111;
+    color:white;
+    padding: 2rem 0;
+}
+.header a{
+    color:white;
+    text-decoration: none;
+       text-align: center;
+}
+.he{
+    margin-left: -450px;
+     font-family: Arial;/*Familia sans serif*/
+     text-decoration: underline overline;
+}
+.imge{
+      margin-top:0.1%;
+    margin-right:120px;
+    margin-bottom:auto;
+}
+.botones{
+
+ margin-top: 30px;
+ margin-right: 25px;
+}
+.boton{
+    display: inline-block;
+     width: 100px;
+     height: 50px;
+     padding-top: 15px;
+     border-radius: 4px;
+     box-shadow: 4px 4px 4px azure;
+     transition: all 0.75s ease;
+     color: #ecf0f1;
+     outline:3px solid #bdc3c7;
+     margin-top:10px;
+    text-decoration: none;     
+}
+.boton:hover{
+    background-color: gray;
+}
+.btn-warning{
+    color: #FFFFFF;
+}
+aside{
+    margin-top: 50px;
+    
+}
+.titulo{
+    width: 100%;
+    height: 150px;
+    padding-top: 50px;
+    text-align: center;
+    background-color: white ;
+    color: #303F9F;
+    font-size: 30px;
+}
+.sub{
+    text-align: center;
+    color: gray;
+}
+footer{
+    margin-top: -200px;
+    width: 100%;
+    height: 150px;
+    background-color:#303F9F;
+    color: #FFFFFF;
+    text-align: center;
+    padding-top: 50px;
+}
+.card-img-top{
+    width: 150px;
+    height: 350px;
+  display:block;
+margin:auto;
+}
+.e{
+    width: 1200px;
+    height: 600px;
+  display:block;
+margin:auto;
+}
+.row{
+margin-left:25px;
+justify-content: space-between;
+}
+/*PRODUCTO*/
+.curr_eur {
+    left: 1082px;
+}
+.curr_pen {
+    left: 7082px;
+}
+.curr_symbolu {
+    display: inline-block;
+    color: #fff;
+    background: #7f7f7f;
+    border: 1px solid rgba(127,127,127,0.72);
+    height: 32px;
+    width: 48px;
+    font: 18px/34px "Cuprum",arial,serif;
+    text-indent: 6px;
+    border-radius: 32px;
+    position: absolute;
+    cursor: pointer;
+     margin-top: -50px;
+     margin-left: 55px;
+}
+.curr_symbole {
+    display: inline-block;
+    color: #fff;
+    background: #7f7f7f;
+    border: 1px solid rgba(127,127,127,0.72);
+    height: 32px;
+    width: 48px;
+    font: 18px/34px "Cuprum",arial,serif;
+    text-indent: 6px;
+    border-radius: 32px;
+    position: absolute;
+    margin-top: -50px;
+    cursor: pointer;
+}
+.curr_symbolpe {
+    display: inline-block;
+    color: #fff;
+    background: #7f7f7f;
+    border: 1px solid rgba(127,127,127,0.72);
+    height: 32px;
+    width: 48px;
+    font: 18px/34px "Cuprum",arial,serif;
+    text-indent: 6px;
+    border-radius: 32px;
+    position: absolute;
+    margin-top: -50px;
+    margin-left: 110px;
+    cursor: pointer;
+}
+*{
+ margin: 0px;
+ padding: 0px;
+ box-sizing: border-box;
+}
+/* AREA HEADER*/
+header{
+    
+    width: 100%;
+    height: 200px;
+    padding-top: 40px;
+    background-color:#303F9F;
+    color: #FFFFFF;
+    text-align: center;
+    
+}
+.botones{
+    float: right;
+    margin-right: 50px;
+}
+.btn-warning{
+    color: #FFFFFF;
+}
+aside{
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+.titulo{
+    width: 100%;
+    height: 150px;
+    padding-top: 50px;
+    text-align: center;
+    background-color:white ;
+    color:#303F9F;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+.subtitulo{
+  text-align: center;
+  color:gray;  
+}
+footer{
+    
+    width: 100%;
+    height: 150px;
+    background-color:#303F9F;
+    color: #FFFFFF;
+    text-align: center;
+    padding-top:50px;
+    
+}
+.formulario{
+    margin-top: 50px;
+}
+.izquierda{
+    float: left;
+    width: 500px;
+    height: 300px;
+    border-radius: 5px;
+    margin:100px;
+}
+.i{
+   margin: 150px 450px 20px 25px; 
+   float: right;
+}
+.extLink{
+    text-decoration: none;
+}
+.ser{
+    text-decoration: none; 
+    color: white;
+}
+.ted{
+    color:white;
+    padding: 2rem 0;
+   font-size: 20px;
+}
+.ted a{
+    color:black;
+    text-decoration: none;
+       text-align: center;
+}
+.conc{
+     color: black;
+     text-align: center;
+     font-family: arial;
+     line-height:  2.0em;
+     margin-bottom: 0.2em;
+     font-size: 25px;
+}

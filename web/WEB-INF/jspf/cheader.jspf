@@ -1,0 +1,12 @@
+
+  <header class="hero-image">
+      <img class="imge" src="RESOURCES/imgs/fl/il_logo.png">
+      <h1 class="he">FL STUDIO</h1>
+    
+    <div class="botones">
+
+        <a href="login.jsp" class="btn btn-secondary" role="button" aria-hidden="true"style="margin-left: 10px;" ><img src="https://img.icons8.com/material-outlined/24/000000/user--v1.png">&nbsp;Login</a>  
+      <a href="registro.jsp" class="btn btn-secondary" role="button" aria-pressed="true" ><img src="https://img.icons8.com/windows/24/000000/edit-user.png">&nbsp;Registro</a>
+        
+    </div>
+</header>

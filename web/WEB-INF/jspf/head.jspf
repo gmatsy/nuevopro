@@ -1,0 +1,13 @@
+
+  <header class="hero-image">
+      <img class="imge" src="RESOURCES/imgs/fl/il_logo.png">
+      <h1 class="he">FL STUDIO</h1>
+    
+    <div class="botones">
+             
+      <a href="index.jsp" class="btn btn-secondary boton" role="button" aria-pressed="true">LOGOUT</a>
+      
+      
+    </div>
+    
+</header>
